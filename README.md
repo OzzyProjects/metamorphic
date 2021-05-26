@@ -8,7 +8,9 @@ Le code est constitué d'une routine de crypytage et de decryptage XOR basique
 
 TODO = la rendre metamorphique elle aussi
 
-Pour le contenu du code, il se contente d'afficher la valeur du registre RAX à chaque boucle
+TODO = choisir un entry point aléatoire pour la routine de cryptage
+
+Pour le contenu du code, il se contente d'afficher la valeur du registre RAX plusieurs fois
 
 Pas encore d'implementation fonctionnelle de prévue si ce n'est ajouter un algorithme complexifiant le metamorphisme
 
