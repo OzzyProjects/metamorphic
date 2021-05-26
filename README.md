@@ -1,4 +1,4 @@
-# metamorphic ELF Linux x64bits beginner
+# metamorphic ELF Linux x64 beginner
 
 Version alpha--
 
