@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# !/usr/bin/env pytho
+
 import os
 import re
 from modules.engine import SimplePol
