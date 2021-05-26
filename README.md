@@ -12,7 +12,7 @@ Pas encore d'implementation fonctionnelle de prévue si ce n'est ajouter un algo
 
 Pour le moment, en plus du cryptage il genere ou supprime des instructions NOP (vraiment très basique)
 
-Mais suut rendre la routine de cryptage métamorphique
+Mais surtout rendre la routine de cryptage métamorphique
 
 Generez les fichiers executables des deux fichiers separement
 
