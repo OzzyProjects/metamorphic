@@ -1,6 +1,6 @@
 # metamorphic
 
-Premiers pas vers la route du code mémamorphique parfait
+Premiers pas vers la route du code métamorphique parfait
 
 Le code est constitué d'une routine de crypytage et de decryptage XOR basique
 
