@@ -22,7 +22,7 @@ nasm -fbin -o header header.asm && chmod +x header
 
 nasm -fbin -o body body.asm && chmod +x body
 
-Puis executez le script python
+Ou bien executez le script python
 
 python main.py
 
