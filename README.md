@@ -18,6 +18,9 @@ Pour le moment, en plus du cryptage il genere ou supprime des instructions NOP (
 
 Mais surtout rendre la routine de cryptage métamorphique
 
+
+Pour le build:
+
 Generez les fichiers executables des deux fichiers separement
 
 nasm -fbin -o header header.asm && chmod +x header
